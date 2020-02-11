@@ -4,7 +4,7 @@
 <h2>Nasıl kurulur?</h2>
 <h3>Chrome için kurulum</h3>
 <ul>
-<li>>a href="https://chrome.google.com/webstore/detail/goodtwitter/jbanhionoclikdjnjlcmefiofgjimgca">Chrome Uygulama Mağazasından</a> <b>GoodTwitter</b> eklentisini kurun.</li>
+<li><a href="https://chrome.google.com/webstore/detail/goodtwitter/jbanhionoclikdjnjlcmefiofgjimgca">Chrome Uygulama Mağazasından</a> <b>GoodTwitter</b> eklentisini kurun.</li>
 <li><a href="https://chrome.google.com/webstore/category/extensions">Chrome Uygulama Mağazasından</a> <b>Tampermonkey</b> eklentisi kurun.</li>
 <li>Daha sonra <a href="https://github.com/Warsofdays/Twitter-Araclari/raw/master/twitter-araclari.user.js">buraya</a> tıklayın ve açılan pencerenin sol üstünden <b>"install"</b> diyerek kurulumu tamamlayın.</li>
 </ul>
