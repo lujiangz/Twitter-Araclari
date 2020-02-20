@@ -16,4 +16,3 @@
 <li>Daha sonra <a href="https://github.com/lujiangz/Twitter-Araclari/raw/master/twitter-araclari.user.js">buraya</a> tıklayın ve açılan pencerenin sol üstünden <b>"install"</b> diyerek kurulumu tamamlayın.</li>
 </ul>
 
-<h3>Kodlama tarafımca yapılmamıştır.</h3>
